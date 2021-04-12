@@ -1,0 +1,17 @@
+.box{
+    margin: 50px auto;
+    padding: 20px;
+    /* justify-content: center; */
+    /* align-items: center; */
+    width: 400px;
+    height: 300px;
+    border: 1px solid #05020f;
+    border-radius: 20px;
+    /* color: red; */
+    font-size: 20px;
+}
+
+.box span{
+    font-size: 25px;
+    font-weight: 500;
+}
